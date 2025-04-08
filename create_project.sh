@@ -54,10 +54,10 @@ mkdir -p ./agents
 touch ./agents/__init__.py
 touch ./agents/models.py          # Pydantic models for agent I/O
 touch ./agents/base_agent_config.py # Optional base configs
-touch ./agents/input_analyzer.py  # Agent(s) for understanding input/intent
+touch ./agents/input_analyzer.py   # Agent(s) for understanding input/intent
 touch ./agents/core_processor.py  # Agent(s) for main logic/task execution
 touch ./agents/validator.py       # Agent(s) for validation (optional)
-touch ./agents/output_generator.py# Agent(s) for formatting/explaining output
+touch ./agents/output_generator.py # Agent(s) for formatting/explaining output
 echo "  Created/Ensured: agents/ and contents"
 
 # Create nodes directory and files (Generalized names)
