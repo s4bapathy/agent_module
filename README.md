@@ -1,6 +1,6 @@
 # Project Scaffolding Script
 
-This repository contains a shell script (`create_project.sh`) to quickly set up a standard directory structure for developing agent-based applications (e.g., using LangGraph) within your current project folder.
+This repository contains a shell script (`create_project.sh`) to quickly set up a standard directory structure for developing agent-based applications (e.g., using pydantic AI ,LangGraph) within your current project folder.
 
 ## Usage
 
